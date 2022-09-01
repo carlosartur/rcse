@@ -1,0 +1,9 @@
+{
+    "name": "Install git on debian and derivates.",
+    "commands": [
+        {
+            "name": "Executing apt command",
+            "command": "sudo apt-get install git"
+        }
+    ]
+}
